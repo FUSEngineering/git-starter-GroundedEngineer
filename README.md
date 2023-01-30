@@ -116,6 +116,8 @@ Read more about forking [here](https://docs.github.com/en/github/creating-clonin
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
 
-* I have finished this course. I will be activating a push and pull request for this file so I can create changes to the main file.
-* However, I found the way to commit changes to the file to be a tad bit confusing. I expected a dropdown menu for it, but instead I had to click the pencil icon close to the main file to commit changes.
-* Bruno Schiappa, January 30, 2023
+###File Update
+
+I have finished this course. I will be activating a push and pull request for this file so I can create changes to the main file.
+However, I found the way to commit changes to the file to be a tad bit confusing. I expected a dropdown menu for it, but instead I had to click the pencil icon close to the main file to commit changes.
+Bruno Schiappa, January 30, 2023
